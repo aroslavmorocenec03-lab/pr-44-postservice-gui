@@ -1,0 +1,242 @@
+[
+  {
+    "page": 1,
+    "id": "windows-forms-home",
+    "variant": "windows-forms",
+    "state": "home",
+    "title": "Головна",
+    "width": 1200,
+    "height": 900,
+    "png": "screens/windows-forms/01-home.png"
+  },
+  {
+    "page": 2,
+    "id": "windows-forms-list",
+    "variant": "windows-forms",
+    "state": "list",
+    "title": "Список поштових відправлень",
+    "width": 1200,
+    "height": 900,
+    "png": "screens/windows-forms/02-list.png"
+  },
+  {
+    "page": 3,
+    "id": "windows-forms-new",
+    "variant": "windows-forms",
+    "state": "new",
+    "title": "Нове відправлення",
+    "width": 1200,
+    "height": 900,
+    "png": "screens/windows-forms/03-new.png"
+  },
+  {
+    "page": 4,
+    "id": "windows-forms-validation",
+    "variant": "windows-forms",
+    "state": "validation",
+    "title": "Нове відправлення · помилки",
+    "width": 1200,
+    "height": 1000,
+    "png": "screens/windows-forms/04-validation.png"
+  },
+  {
+    "page": 5,
+    "id": "windows-forms-details",
+    "variant": "windows-forms",
+    "state": "details",
+    "title": "Деталі відправлення",
+    "width": 1200,
+    "height": 900,
+    "png": "screens/windows-forms/05-details.png"
+  },
+  {
+    "page": 6,
+    "id": "windows-forms-about",
+    "variant": "windows-forms",
+    "state": "about",
+    "title": "Про програму",
+    "width": 1200,
+    "height": 900,
+    "png": "screens/windows-forms/06-about.png"
+  },
+  {
+    "page": 7,
+    "id": "windows-forms-delete",
+    "variant": "windows-forms",
+    "state": "delete",
+    "title": "Підтвердження видалення",
+    "width": 1200,
+    "height": 900,
+    "png": "screens/windows-forms/07-delete.png"
+  },
+  {
+    "page": 8,
+    "id": "windows-forms-edit",
+    "variant": "windows-forms",
+    "state": "edit",
+    "title": "Редагування відправлення",
+    "width": 1200,
+    "height": 900,
+    "png": "screens/windows-forms/08-edit.png"
+  },
+  {
+    "page": 9,
+    "id": "web-desktop-home",
+    "variant": "web-desktop",
+    "state": "home",
+    "title": "Головна",
+    "width": 1440,
+    "height": 1000,
+    "png": "screens/web-desktop/01-home.png"
+  },
+  {
+    "page": 10,
+    "id": "web-desktop-list",
+    "variant": "web-desktop",
+    "state": "list",
+    "title": "Список поштових відправлень",
+    "width": 1440,
+    "height": 1000,
+    "png": "screens/web-desktop/02-list.png"
+  },
+  {
+    "page": 11,
+    "id": "web-desktop-new",
+    "variant": "web-desktop",
+    "state": "new",
+    "title": "Нове відправлення",
+    "width": 1440,
+    "height": 1000,
+    "png": "screens/web-desktop/03-new.png"
+  },
+  {
+    "page": 12,
+    "id": "web-desktop-validation",
+    "variant": "web-desktop",
+    "state": "validation",
+    "title": "Нове відправлення · помилки",
+    "width": 1440,
+    "height": 1080,
+    "png": "screens/web-desktop/04-validation.png"
+  },
+  {
+    "page": 13,
+    "id": "web-desktop-details",
+    "variant": "web-desktop",
+    "state": "details",
+    "title": "Деталі відправлення",
+    "width": 1440,
+    "height": 1000,
+    "png": "screens/web-desktop/05-details.png"
+  },
+  {
+    "page": 14,
+    "id": "web-desktop-about",
+    "variant": "web-desktop",
+    "state": "about",
+    "title": "Про програму",
+    "width": 1440,
+    "height": 1000,
+    "png": "screens/web-desktop/06-about.png"
+  },
+  {
+    "page": 15,
+    "id": "web-desktop-delete",
+    "variant": "web-desktop",
+    "state": "delete",
+    "title": "Підтвердження видалення",
+    "width": 1440,
+    "height": 1000,
+    "png": "screens/web-desktop/07-delete.png"
+  },
+  {
+    "page": 16,
+    "id": "web-desktop-edit",
+    "variant": "web-desktop",
+    "state": "edit",
+    "title": "Редагування відправлення",
+    "width": 1440,
+    "height": 1000,
+    "png": "screens/web-desktop/08-edit.png"
+  },
+  {
+    "page": 17,
+    "id": "web-mobile-home",
+    "variant": "web-mobile",
+    "state": "home",
+    "title": "Головна",
+    "width": 430,
+    "height": 1000,
+    "png": "screens/web-mobile/01-home.png"
+  },
+  {
+    "page": 18,
+    "id": "web-mobile-list",
+    "variant": "web-mobile",
+    "state": "list",
+    "title": "Список поштових відправлень",
+    "width": 430,
+    "height": 1100,
+    "png": "screens/web-mobile/02-list.png"
+  },
+  {
+    "page": 19,
+    "id": "web-mobile-new",
+    "variant": "web-mobile",
+    "state": "new",
+    "title": "Нове відправлення",
+    "width": 430,
+    "height": 1480,
+    "png": "screens/web-mobile/03-new.png"
+  },
+  {
+    "page": 20,
+    "id": "web-mobile-validation",
+    "variant": "web-mobile",
+    "state": "validation",
+    "title": "Нове відправлення · помилки",
+    "width": 430,
+    "height": 1730,
+    "png": "screens/web-mobile/04-validation.png"
+  },
+  {
+    "page": 21,
+    "id": "web-mobile-details",
+    "variant": "web-mobile",
+    "state": "details",
+    "title": "Деталі відправлення",
+    "width": 430,
+    "height": 1330,
+    "png": "screens/web-mobile/05-details.png"
+  },
+  {
+    "page": 22,
+    "id": "web-mobile-about",
+    "variant": "web-mobile",
+    "state": "about",
+    "title": "Про програму",
+    "width": 430,
+    "height": 880,
+    "png": "screens/web-mobile/06-about.png"
+  },
+  {
+    "page": 23,
+    "id": "web-mobile-delete",
+    "variant": "web-mobile",
+    "state": "delete",
+    "title": "Підтвердження видалення",
+    "width": 430,
+    "height": 820,
+    "png": "screens/web-mobile/07-delete.png"
+  },
+  {
+    "page": 24,
+    "id": "web-mobile-edit",
+    "variant": "web-mobile",
+    "state": "edit",
+    "title": "Редагування відправлення",
+    "width": 430,
+    "height": 1440,
+    "png": "screens/web-mobile/08-edit.png"
+  }
+]
